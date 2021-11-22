@@ -1,0 +1,7 @@
+C:\Users\Artemy\source\repos\OAP_22.11.21\OAP_22.11.21\bin\Debug\OAP_22.11.21.exe.config
+C:\Users\Artemy\source\repos\OAP_22.11.21\OAP_22.11.21\bin\Debug\OAP_22.11.21.exe
+C:\Users\Artemy\source\repos\OAP_22.11.21\OAP_22.11.21\bin\Debug\OAP_22.11.21.pdb
+C:\Users\Artemy\source\repos\OAP_22.11.21\OAP_22.11.21\obj\Debug\OAP_22.11.21.csproj.AssemblyReference.cache
+C:\Users\Artemy\source\repos\OAP_22.11.21\OAP_22.11.21\obj\Debug\OAP_22.11.21.csproj.CoreCompileInputs.cache
+C:\Users\Artemy\source\repos\OAP_22.11.21\OAP_22.11.21\obj\Debug\OAP_22.11.21.exe
+C:\Users\Artemy\source\repos\OAP_22.11.21\OAP_22.11.21\obj\Debug\OAP_22.11.21.pdb
